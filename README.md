@@ -26,9 +26,10 @@ temp-convert -h
 
 ## TODO:
 
+- [x] Basic functionality
 - [ ] Write tests
 - [ ] Refactor the code
-- [ ] Automatic build using Github CI/CD
+- [ ] Github CI/CD
 
 ## Thanks:
 
