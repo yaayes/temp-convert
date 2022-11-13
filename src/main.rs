@@ -56,7 +56,7 @@ fn show_help() {
     Temperature convert
 
     Usage:
-      -h                Show this help page
+      -h                Show this page
       -c --celsius      Convert a Celsius temperature to Fahrenheit
       -f --fahrenheit   Convert a Fahrenheit temperature to Celsius
     "

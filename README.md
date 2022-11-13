@@ -29,7 +29,7 @@ temp-convert -h
 - [x] Basic functionality
 - [ ] Write tests
 - [ ] Refactor the code
-- [ ] Github CI/CD
+- [ ] GitHub CI/CD
 
 ## Thanks:
 
